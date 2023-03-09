@@ -1,0 +1,38 @@
+#: locale=en
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_FC2142F3_C060_1D1A_41E0_835561186657.toolTip = nhà thờ họ
+
+## Media
+
+### Title
+panorama_F03BFE4E_C3A0_050A_41D5_CEFA53FED167.label = Chợ
+panorama_F0385088_C3A0_1DF6_41B5_15AFFB48BE18.label = Cổng làng
+panorama_F03AFBE1_C3A0_0337_41C6_DB6F778C5BE0.label = nhà thờ
+panorama_F03D3F3C_C3A0_030E_4194_7940DC998EDA.label = nhà thờ họ
+panorama_F0389B71_C3A0_0317_41DA_7A64FB4EEFDC.label = nhà thờ họ
+panorama_F03421E4_C3A0_1F3D_41E6_45F3B8A8AAAC.label = nhà thờ họ
+panorama_F03A0426_C3A0_053A_41DB_326BAEDD41D9.label = nhà thờ họ
+panorama_F03B992A_C3A0_0F35_41D5_570B3C2D6FC1.label = nhà thờ họ
+panorama_F0347B34_C3A0_031E_41A4_ED75F5725926.label = nhà thờ họ
+panorama_F0055E39_C3A0_0516_41D3_061D7DE13F0B.label = nhà thờ họ
+panorama_F03D21BA_C3A0_1F15_41C7_1210F2BDB398.label = nhà thờ họ
+panorama_F03D77EA_C3A0_0335_41E1_C78A065C0C62.label = nhà thờ họ
+panorama_F03D559C_C3A0_070D_4191_4B0F4AB798DE.label = nội thất đình làng
+panorama_F5D279A4_C3A0_0F3D_41E3_19263E9BBA98.label = trên cao 1
+panorama_F0388CAB_C3A0_0509_41E3_49E0ADAADFD2.label = trên cao 2
+panorama_F03C651C_C3A0_070E_41D2_0A88D94900AF.label = đình làng
+panorama_F03C812C_C3A7_FF0E_41E7_FB19A16EC8E9.label = đình làng
+panorama_F033E20B_C3A0_1D0B_41DC_BC5737562991.label = đình làng
+panorama_F0358AC6_C3A0_0D7A_41D9_E0050BD923AC.label = đường
+panorama_F03B677F_C3A0_030B_41D0_222A2EFDF927.label = đường làng
+panorama_F03B7351_C3A0_0317_41E4_A148309DB0A4.label = đường làng
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 147
